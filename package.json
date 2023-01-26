@@ -1,6 +1,6 @@
 {
   "name": "svelte-loaf",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Luke Ruokaismäki",
   "license": "MIT",
   "description": "A Svelte component for displaying toast notifications",
