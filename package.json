@@ -16,7 +16,6 @@
     "@sveltejs/kit": "^1.0.0",
     "@sveltejs/package": "^1.0.0",
     "@types/uuid": "^9.0.0",
-    "svelte": "^3.54.0",
     "svelte-check": "^3.0.1",
     "svelte-preprocess": "^5.0.1",
     "tslib": "^2.4.1",
@@ -25,6 +24,7 @@
   },
   "type": "module",
   "dependencies": {
+    "svelte": "^3.54.0",
     "eslint-config-lukermaki": "^1.0.0",
     "sass": "^1.57.1",
     "uuid": "^9.0.0"
