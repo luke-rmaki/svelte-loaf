@@ -11,13 +11,14 @@ specifiers:
   svelte-check: ^3.0.1
   svelte-preprocess: ^5.0.1
   tslib: ^2.4.1
-  typescript: ^4.9.3
+  typescript: ^4.9.4
   uuid: ^9.0.0
   vite: ^4.0.0
 
 dependencies:
   eslint-config-lukermaki: 1.0.0_typescript@4.9.4
   sass: 1.57.1
+  svelte: 3.55.1
   uuid: 9.0.0
 
 devDependencies:
@@ -25,7 +26,6 @@ devDependencies:
   '@sveltejs/kit': 1.2.10_svelte@3.55.1+vite@4.0.4
   '@sveltejs/package': 1.0.2_atrrhq7vg4ekua4nnyrpuardle
   '@types/uuid': 9.0.0
-  svelte: 3.55.1
   svelte-check: 3.0.3_sass@1.57.1+svelte@3.55.1
   svelte-preprocess: 5.0.1_feqgtmonqoj7yjk2wjndla2xcu
   tslib: 2.4.1
@@ -2532,7 +2532,6 @@ packages:
   /svelte/3.55.1:
     resolution: {integrity: sha512-S+87/P0Ve67HxKkEV23iCdAh/SX1xiSfjF1HOglno/YTbSTW7RniICMCofWGdJJbdjw3S+0PfFb1JtGfTXE0oQ==}
     engines: {node: '>= 8'}
-    dev: true
 
   /svelte2tsx/0.6.0_atrrhq7vg4ekua4nnyrpuardle:
     resolution: {integrity: sha512-TrxfQkO7CKi8Pu2eC/FyteDCdk3OOeQV5u6z7OjYAsOhsd0ClzAKqxJdvp6xxNQLrbFzf/XvCi9Fy8MQ1MleFA==}
